@@ -1,4 +1,4 @@
-#Dynamic-Desktop-Theme
+# Dynamic-Desktop-Theme
 
 This script works with ```pywal``` , `Graphite-gtk` theme, `Marble` gtk theme & `Reversal` icon theme. 
 
