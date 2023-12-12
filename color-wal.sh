@@ -4,7 +4,7 @@
 wal -i "$(gsettings get org.gnome.desktop.background picture-uri-dark | sed "s/'file:\/\///;s/'//")"
 
 # Check if the pywal output file exists
-pywal_file="/home/bios/.cache/wal/colors"
+pywal_file="$HOME/.cache/wal/colors"
 if [[ ! -f "$pywal_file" ]]; then
   echo "Error: The pywal output file '$pywal_file' does not exist."
   exit 1
