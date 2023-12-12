@@ -1,6 +1,6 @@
 # Dynamic-Desktop-Theme
 
-This script works with ```pywal``` , `Graphite-gtk` theme, `Marble` gtk theme & `Reversal` icon theme. 
+This script works with ```pywal``` , [Graphite-gtk theme](https://github.com/vinceliuice/Graphite-gtk-theme), [Marble](https://github.com/imarkoff/Marble-shell-theme) gtk theme & [Reversal](https://github.com/yeyushengfan258/Reversal-icon-theme) icon theme. 
 
 > ![Screenshot from 2023-12-10 13-22-53](https://github.com/thusvill/dynamic-desktop-theme/assets/87165098/160fb40c-c80b-42f4-9e74-c9ddc00be438)
  
